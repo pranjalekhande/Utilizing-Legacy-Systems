@@ -10,7 +10,7 @@
 The purpose of this application is to provide an interface to access legacy data that is accessed via USB and modernize it to be accessed instead by way of HTTPS requests (within context of a RESTful API, please note this project does not provide the RESTful API and only the classes necessary to convert data).
 
 # GitHub Repository Link:
-https://github.com/SmoothThunk/cs-665-assignment-4
+[https://github.com/pranjalekhande/Utilizing-Legacy-Systems.git]
 
 # Implementation Description
 The implementation of this project relies on usage of the `Adapter` software design pattern which provides functionality that allows for one data type to utilize the methods of another without having to modify either class. The use case in this instance is to access legacy data that was originally accessed via USB, instead via HTTPS calls (via a RESTful API).
